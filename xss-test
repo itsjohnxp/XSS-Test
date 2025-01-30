@@ -1,1 +1,1 @@
-<img src="javascript:alert('test')" />
+<img src/onerror=prompt(8)>
