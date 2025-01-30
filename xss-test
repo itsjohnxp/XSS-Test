@@ -1,1 +1,1 @@
-alert(test)
+<img src="javascript:alert('test')" />
